@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsoniceq
 - 👀 I’m interested in UI automated testing
-- 🌱 I’m currently learning atomated testing & API calls
+- 🌱 I’m currently learning automated testing & API calls
 - 💞️ I’m looking to collaborate on testing
 - 📫 How to reach me : "test" is the word to summon me 
 - 😄 Pronouns: none
